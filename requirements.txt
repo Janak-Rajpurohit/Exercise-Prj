@@ -109,7 +109,7 @@ stack-data
 sympy==1.12
 tensorboard==2.14.0
 tensorboard-data-server==0.7.2
-tensorflow==2.16.1
+tensorflow==2.13.1
 tensorflow-io-gcs-filesystem==0.31.0
 tensornets==0.4.6
 termcolor==2.4.0
