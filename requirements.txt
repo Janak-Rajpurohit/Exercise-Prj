@@ -71,7 +71,7 @@ opencv-contrib-python==4.9.0.80
 opencv-python==4.9.0.80
 opt-einsum==3.3.0
 packaging 
-pandas==2.2.1
+pandas==2.0.3
 parso 
 passlib==1.7.4
 pickleshare 
