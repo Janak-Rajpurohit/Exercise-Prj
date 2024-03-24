@@ -107,7 +107,7 @@ seaborn==0.13.2
 SQLAlchemy==2.0.28
 stack-data 
 sympy==1.12
-tensorboard==2.16.2
+tensorboard==2.14.0
 tensorboard-data-server==0.7.2
 tensorflow==2.16.1
 tensorflow-io-gcs-filesystem==0.31.0
