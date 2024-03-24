@@ -65,7 +65,7 @@ mdurl==0.1.2
 mediapipe==0.10.11
 
 mpmath==1.3.0
-networkx==3.2.1
+
 numba==0.59.0
 numpy==1.26.4
 opencv-contrib-python==4.9.0.80
