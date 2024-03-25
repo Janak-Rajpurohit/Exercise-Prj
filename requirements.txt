@@ -120,7 +120,7 @@ tornado
 tqdm 
 traitlets 
 urllib3 
-Werkzeug =2.2.2
+Werkzeug==2.2.2
 wrapt==1.16.0
 WTForms==3.1.2
 zipp 
